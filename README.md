@@ -1,8 +1,9 @@
 # XMaiRandomMusic
 舞萌线下比赛随机抽歌软件
 
-本软件开发采用拼好码
-使用了DeepSeek和Qwen两款AI打辅助
+
+使用了DeepSeek打辅助
+# 在原版Qt5的基础上总结经验，最终使用了html进行重写
 
 主要功能
 -
